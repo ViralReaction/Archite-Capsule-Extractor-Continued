@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Archite Capsule Extractor</name>
-  <author>zed_0xff</author>
-  <packageId>zed.0xff.ArchiteCapsuleExtractor</packageId>
+  <name>Archite Capsule Extractor (Continuned)</name>
+  <author>zed_0xff, ViralReaction</author>
+  <packageId>vr.ArchiteCapsuleExtractor</packageId>
   <url>https://github.com/zed-0xff/RW-ArchiteCapsuleExtractor</url>
   <supportedVersions>
-    <li>1.4</li>
+    	<li>1.4</li>
+	<li>1.5</li>
   </supportedVersions>
   <description>Extract archite capsules (not genes!) from pawns, obviously killing them in the process.
 But pawns must have at least one archite gene to be applicable.

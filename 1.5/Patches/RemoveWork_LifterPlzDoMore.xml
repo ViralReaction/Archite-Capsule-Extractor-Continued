@@ -1,0 +1,7 @@
+<Patch>
+
+	<Operation Class="PatchOperationRemove" MayRequire="DanceNinja.LifterPlzDoMoreJobs">
+		<xpath>Defs/WorkGiverDef[defName="ACE_CarryToArchiteCapsuleExtractor"]/canBeDoneByMechs</xpath>
+	</Operation>
+
+</Patch>

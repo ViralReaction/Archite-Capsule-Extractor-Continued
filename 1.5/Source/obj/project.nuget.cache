@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NL0nha5AoImKRyaBS67VToYpfxLemTjNFPkCmHTNkgphJF1yHRCIzeCP5cKX6I9vFECMP2PJT/KxwAroqG+GdA==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Archite-Capsule-Extractor-Continued\\1.5\\Source\\ArchiteCapsuleExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enurta\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512",
+    "C:\\Users\\Enurta\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4146-beta\\krafs.rimworld.ref.1.5.4146-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,7 +2,7 @@
 <Defs>
 
   <WorkGiverDef>
-    <defName>CarryToArchiteCapsuleExtractor</defName>
+    <defName>ACE_CarryToArchiteCapsuleExtractor</defName>
     <label>carry to building</label>
     <giverClass>ArchiteCapsuleExtractor.WorkGiver_CarryToArchiteCapsuleExtractor</giverClass>
     <workType>Hauling</workType>
