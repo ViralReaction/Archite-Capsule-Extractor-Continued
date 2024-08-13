@@ -3,7 +3,7 @@
   <name>Archite Capsule Extractor (Continuned)</name>
   <author>zed_0xff, ViralReaction</author>
   <packageId>vr.ArchiteCapsuleExtractor</packageId>
-  <url>https://github.com/zed-0xff/RW-ArchiteCapsuleExtractor</url>
+  <url>https://github.com/ViralReaction/Archite-Capsule-Extractor-Continued</url>
   <supportedVersions>
     	<li>1.4</li>
 	<li>1.5</li>
@@ -22,7 +22,6 @@ I.e. 10-th capsule will have ~7% chance.
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2882834449]Auto-Extract Genes[/url]: Capsules will NOT be auto-extracted.
 [/list]
 
-[url=https://ko-fi.com/K3K81Z3W5][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
 </description>
   <modDependencies>
       <li>
