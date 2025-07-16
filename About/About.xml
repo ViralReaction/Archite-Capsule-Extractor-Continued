@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Archite Capsule Extractor (Continuned)</name>
-  <author>zed_0xff, ViralReaction</author>
-  <packageId>vr.ArchiteCapsuleExtractor</packageId>
-  <url>https://github.com/ViralReaction/Archite-Capsule-Extractor-Continued</url>
-  <supportedVersions>
-    	<li>1.4</li>
-	<li>1.5</li>
-  </supportedVersions>
-  <description>Extract archite capsules (not genes!) from pawns, obviously killing them in the process.
+	<name>Archite Capsule Extractor (Continuned)</name>
+	<author>zed_0xff, ViralReaction</author>
+	<packageId>vr.ArchiteCapsuleExtractor</packageId>
+	<url>https://github.com/ViralReaction/Archite-Capsule-Extractor-Continued</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Extract archite capsules (not genes!) from pawns, obviously killing them in the process.
 But pawns must have at least one archite gene to be applicable.
 Requires corresponding research.
 
@@ -22,11 +23,14 @@ I.e. 10-th capsule will have ~7% chance.
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2882834449]Auto-Extract Genes[/url]: Capsules will NOT be auto-extracted.
 [/list]
 
-</description>
-  <modDependencies>
-      <li>
-          <packageId>Ludeon.RimWorld.Biotech</packageId>
-          <displayName>Biotech</displayName>
-      </li>
-  </modDependencies>
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld.Biotech</li>
+	</loadAfter>
 </ModMetaData>

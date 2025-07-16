@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Assemblies\ArchiteCapsuleExtractor.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Assemblies\ArchiteCapsuleExtractor.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Archite-Capsule-Extractor-Continued\1.6\Source\obj\Release\ArchiteCapsuleExtractor.pdb

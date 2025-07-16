@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>ACE_ResearchArchiteCapsuleExtractor</defName>
+    <label>archite extraction</label>
+    <description>Extract archite capsules from living people using an archite extractor, killing them in the process.</description>
+    <techLevel>Industrial</techLevel>
+    <baseCost>2000</baseCost>
+    <researchViewX>17.00</researchViewX>
+    <researchViewY>5.40</researchViewY>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	<requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <prerequisites>
+      <li>Archogenetics</li>	
+    </prerequisites>
+	<generalRules>
+      <rulesStrings>
+        <li>subject->archite capsule extraction</li>
+
+        <li>subject_story->faced ethical dilemmas when extracting from sentient organisms</li>
+        <li>subject_story->pioneered the use of high-frequency resonance to isolate capsules</li>
+        <li>subject_story->encountered mutations during extraction that led to catastrophic failures</li>
+
+        <li>subject_gerund->isolating archite capsules from raw genetic material</li>
+        <li>subject_gerund->safeguarding capsule integrity during extraction</li>
+		<li>subject_gerund->implementing failsafe measures to prevent capsule rupture</li>
+
+      </rulesStrings>
+    </generalRules>
+  </ResearchProjectDef>
+
+</Defs>
